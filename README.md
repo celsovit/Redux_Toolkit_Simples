@@ -1,70 +1,17 @@
-# Getting Started with Create React App
+# Redux-Toolkit Simples
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto é apenas uma atualização do projeto [deste repositório](https://github.com/celsovit/Redux_Simples), cujo objetivo aqui foi migrar o código para [Redux Toolkit](https://redux-toolkit.js.org/).
 
-## Available Scripts
+> O Redux-Toolkit, ou “RTK”, é a forma mais atual (desde 2019) a implementar o 
+> Redux, de acordo com a própria documentação dele. Foi criado para resolver os dois primeiros problemas citados acima: ser complicado demais e ter muito código boilerplate.
+>
+> Fonte: [Medium by Ítalo Assunção :: Gerenciamento de Estado no React: do Redux ao Zustang](https://medium.com/geekieeducacao/gerenciamento-de-estado-no-react-do-redux-ao-zustand-3efceab86dfa)
 
-In the project directory, you can run:
 
-### `npm start`
+## Saiba Mais
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [Gerenciamento de Estado no React: do Redux ao Zustand](https://medium.com/geekieeducacao/gerenciamento-de-estado-no-react-do-redux-ao-zustand-3efceab86dfa)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [How To Integrate Redux with React Based Application](https://semaphoreci.com/blog/redux-react)
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [https://pt.linkedin.com/pulse/entenda-o-redux-toolkit-diego-telles](https://pt.linkedin.com/pulse/entenda-o-redux-toolkit-diego-telles)
